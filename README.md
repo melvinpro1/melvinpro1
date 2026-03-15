@@ -1,8 +1,6 @@
 # Hello 👋, I'm Melvin Blanco.
 ### Informatica Empresarial
 
-# Hi, I'm Melvin!
-
 🎓 I am a Computer Science student from Conta Rica.
 
 
